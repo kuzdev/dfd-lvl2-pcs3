@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T12:40:58.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TthBu8zp4W3DrgfNPE8S" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T14:07:21.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="etF9Wjnos848iSZaz8Hr" version="14.7.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="697" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="773" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AGeOe6imK-TT0MshHm-S-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AGeOe6imK-TT0MshHm-S-1" value="Owner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AGeOe6imK-TT0MshHm-S-2" value="Member" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGeOe6imK-TT0MshHm-S-53" value="Info&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Pemesanan&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AGeOe6imK-TT0MshHm-S-24" vertex="1" connectable="0">
+        <mxCell id="AGeOe6imK-TT0MshHm-S-53" value="Info&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Pesanan&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AGeOe6imK-TT0MshHm-S-24" vertex="1" connectable="0">
           <mxGeometry x="-0.1097" y="3" relative="1" as="geometry">
             <mxPoint x="11" y="-3" as="offset" />
           </mxGeometry>
@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGeOe6imK-TT0MshHm-S-54" value="Info&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Pemesanan&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AGeOe6imK-TT0MshHm-S-26" vertex="1" connectable="0">
+        <mxCell id="AGeOe6imK-TT0MshHm-S-54" value="Info&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Pesanan Saya&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AGeOe6imK-TT0MshHm-S-26" vertex="1" connectable="0">
           <mxGeometry x="-0.6329" y="1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
